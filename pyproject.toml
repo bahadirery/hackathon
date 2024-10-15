@@ -18,7 +18,8 @@ verovio = "^4.3.1"
 accelerate = "^1.0.1"
 qwen-vl-utils = "^0.0.8"
 autoawq ="0.2.x"
-flash-attn="2.6.2"
+fitz = "^0.0.1.dev2"
+frontend = "^0.0.3"
 
 
 [build-system]
